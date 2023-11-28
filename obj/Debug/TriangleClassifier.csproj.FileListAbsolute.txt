@@ -1,0 +1,12 @@
+E:\TriangleClassifier\bin\Debug\TriangleClassifier.dll
+E:\TriangleClassifier\bin\Debug\TriangleClassifier.pdb
+E:\TriangleClassifier\obj\Debug\TriangleClassifier.csproj.AssemblyReference.cache
+E:\TriangleClassifier\obj\Debug\TriangleClassifier.csproj.CoreCompileInputs.cache
+E:\TriangleClassifier\obj\Debug\TriangleClassifier.dll
+E:\TriangleClassifier\obj\Debug\TriangleClassifier.pdb
+C:\GitHub\TriangleClassifier\bin\Debug\TriangleClassifier.dll
+C:\GitHub\TriangleClassifier\bin\Debug\TriangleClassifier.pdb
+C:\GitHub\TriangleClassifier\obj\Debug\TriangleClassifier.csproj.AssemblyReference.cache
+C:\GitHub\TriangleClassifier\obj\Debug\TriangleClassifier.csproj.CoreCompileInputs.cache
+C:\GitHub\TriangleClassifier\obj\Debug\TriangleClassifier.dll
+C:\GitHub\TriangleClassifier\obj\Debug\TriangleClassifier.pdb
